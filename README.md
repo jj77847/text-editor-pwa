@@ -10,6 +10,7 @@
   - [Getting Started](#getting-started)
     - [Installation](#installation)
     - [Run the App](#run-the-app)
+  - [Screenshot](#screenshot)
 
 ## Description
 
@@ -44,4 +45,6 @@ npm i
 npm run start
 ```
 
-##
+## Screenshot
+
+![Deployed Screenshot](/Users/jonathanjefferies/text-editor-pwa/client/src/images/screenshot-heroku-text-editor 2.png)
